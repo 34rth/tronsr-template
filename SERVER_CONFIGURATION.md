@@ -6,16 +6,14 @@ https://github.com/34rth
 
 
 ## Server configuration & Location Configuration:
-Location: Hetzner Online AG, Bavaria/Germany
-
-Future locations will be equally distributed between all available Heroku regions
-
-Public IP: 94.130.165.82
+* Location: Hetzner Online AG, Bavaria/Germany
+* Future locations will be equally distributed between all available Heroku regions
+* Public IP: 94.130.165.82
 
 ## Specification
-Intel® Xeon® E5-1650 v3 Hexa-Core Haswell processor
-256 GB DDR4 ECC RAM
-960GB NVMe Data Center Series SSDs in a Raid 1 configuration.
+* Intel® Xeon® E5-1650 v3 Hexa-Core Haswell processor
+* 256 GB DDR4 ECC RAM
+* 960GB NVMe Data Center Series SSDs in a Raid 1 configuration.
 
 ## Hardware Expansion Plan for 2018 (after June 26)
 * Consul & Route53 
