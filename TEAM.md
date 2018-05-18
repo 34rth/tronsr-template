@@ -4,5 +4,5 @@
 ## Michael
 ## Hans
 
-# Find much more Team information: @(https://34rth.com/)[https://34rth.com/]
+# Find much more Team information: @https://34rth.com/
 Location: Munich, Germany
