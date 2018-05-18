@@ -1,14 +1,8 @@
-## Founder
+## Charly
+## Titus
+## Freddy
+## Michael
+## Hans
 
-Name: [name]
-Role: [role]
-
-## Team Member 1
-
-Name: [name]
-Role: [role]
-
-## Team Member 2
-
-Name: [name]
-Role: [role]
+# Find much more Team information: @(https://34rth.com/)[https://34rth.com/]
+Location: Munich, Germany
