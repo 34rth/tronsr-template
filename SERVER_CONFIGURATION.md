@@ -7,7 +7,9 @@ https://github.com/34rth
 
 ## Server configuration & Location Configuration:
 Location: Hetzner Online AG, Bavaria/Germany
+
 Future locations will be equally distributed between all available Heroku regions
+
 Public IP: 94.130.165.82
 
 ## Specification
