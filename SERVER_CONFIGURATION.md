@@ -17,8 +17,8 @@ Intel® Xeon® E5-1650 v3 Hexa-Core Haswell processor
 
 ## Hardware Expansion Plan for 2018 (after June 26)
 * Consul & Route53 
-*configuration to route static public IPs to dynamically assigned IPs in Heroku for super-node containers 
-*Prometheus availability metrics will be shared publicly.
-*Auto-failover & recovery in case of disaster.
-*55% of all awards will directly go in auto-scaling infrastructure.
-*Hardware expansion will be automated to Heroku with PERFORMANCE L nodes. Formula: floor((awards in USDT)*0.55 / 500) == nr of PERFORMANCE L nodes.
+* configuration to route static public IPs to dynamically assigned IPs in Heroku for super-node containers 
+* Prometheus availability metrics will be shared publicly.
+* Auto-failover & recovery in case of disaster.
+* 55% of all awards will directly go in auto-scaling infrastructure.
+* Hardware expansion will be automated to Heroku with PERFORMANCE L nodes. Formula: floor((awards in USDT)*0.55 / 500) == nr of PERFORMANCE L nodes.
