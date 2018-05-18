@@ -5,6 +5,3 @@
   Tron Super Representative Candidate
   <br>
 </h1>
-
-## Intro
-
