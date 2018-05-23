@@ -15,8 +15,8 @@ Titus|
 ![Titus](https://tron.34rth.com/wp-content/uploads/2018/05/team-TR-2-270x164.jpg) |
 
 
-Freddy|  
------------- | 
+Freddy | 
+------------ |
 ![Freddy](https://tron.34rth.com/wp-content/uploads/2018/05/team-FM-2-270x164.jpg) |
 
 
